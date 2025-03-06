@@ -2,6 +2,8 @@
 
 Git commands...
 
+git clone <-link->... -> to clone the git here and make changes
+
  cd -> to change Directory...
  mkdir -> to make a Directory..
  cd .. -> to exit from the directory
