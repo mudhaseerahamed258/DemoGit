@@ -19,3 +19,16 @@ Step1:
 * git commit -m "Your message"
 //To make Changes in the Remove GitHub Server..
 * git push origin main -> origin is name and main is the branch name...
+
+
+Step2:
+
+How to create an New Repo using Git..
+
+* mkdir 'repo name..
+* git init -> to create a new git repo 
+* git remote add origin <-link-> -> to add the git repo to the main github
+* git remote -v -> to verify the git 
+* git branch -> to check branch of a present repo
+* git branch -M 'name of branch' -> to change the name of the branch
+* git push origin main -> to make the changes and save
