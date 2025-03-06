@@ -32,3 +32,4 @@ How to create an New Repo using Git..
 * git branch -> to check branch of a present repo
 * git branch -M 'name of branch' -> to change the name of the branch
 * git push origin main -> to make the changes and save
+* git push -u origin main -> by using this from next time we can just enter "git push" no need to enter origin main as it will automatically save change in the present repo..it will used when we woking on same project
